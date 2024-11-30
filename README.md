@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+我正在学习Python和网络安全
 <!--
 **shisifourteen/shisifourteen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
